@@ -3,7 +3,7 @@ import { Button, Card, Typography, Space, Progress } from "antd";
 import { useDispatch, useSelector } from "react-redux";
 import Result from "./result";
 import "./page.css";
-import { fetchQuestions, selectAnswer,nextQuestion,resetQuiz } from "../../application/quizSlice";
+import { fetchQuestions, selectAnswer,nextQuestion } from "../../application/quizSlice";
 
 const { Title } = Typography;
 
