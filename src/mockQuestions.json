@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is the capital city of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correct": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+      "correct": "Jupiter"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["South Korea", "China", "Japan", "Thailand"],
+      "correct": "Japan"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correct": "7"
+    }
+  ]
